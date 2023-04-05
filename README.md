@@ -1,3 +1,31 @@
+### 📝 Descrição
+SPA, responsivo, para organizar as suas tarefas.
+
+</br>
+
+### 👨🏻‍💻 Tecnologias utilizadas 
+React </br>
+Redux </br>
+TypeScript </br>
+Styled-components </br>
+
+</br>
+
+### 🎴 Imagem do projeto
+
+![organizador de tarefas](https://user-images.githubusercontent.com/114628700/230195528-015956fb-aecf-4996-985a-40c49ba75106.jpg)
+
+
+
+
+</br>
+
+### 💻 Acesse o projeto
+https://organizador-de-tarefas-rr.vercel.app/
+
+</br>
+</br>
+</br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
